@@ -1,0 +1,11 @@
+h1{
+    color: chartreuse;
+    text-align: center;
+    cursor: pointer;
+    border: 5px solid;
+    background-color: aliceblue;
+    font-size: 45px ;
+}
+p{
+    color: black;
+}

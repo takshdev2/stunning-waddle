@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: brown;
+    background-color: blanchedalmond;
+    border: 2px solid;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+    color: gold;
+    background-color: black;
+    border-color: aliceblue;
+    border: 2px solid;
+    border-radius: 5px;
+}
+p{
+    text-align: start;
+    color: black;border-color: blue;
+    background-color: aliceblue;
+    border: 2px solid;
+
+}
